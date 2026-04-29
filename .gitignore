@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+env/
+venv/
+
+# Index
+*.faiss
+*.pkl
+index/
+
+# Images
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# IDE
+.vscode/
+.idea/
